@@ -367,5 +367,5 @@ ${H1} *Textpro Menu* ${H2}
 │${H3} #leaves
 ${H4}
 
-*NeoBotz-MD@^1.0.0*\n${monospace}Simple Bot WhatsApp With Baileys Multi Device${monospace}`
+*PRATAMA-MD@^1.0.0*\n${monospace}Simple Bot WhatsApp With Baileys Multi Device${monospace}`
 }
