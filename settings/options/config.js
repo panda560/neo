@@ -1,14 +1,14 @@
-// CREATED BY LEXXY
+// CREATED BY PRATAMA
 const fs = require('fs')
 const chalk = require('chalk')
 
 // OTHERS
-global.owner = ['994408465157', '994408465157']
-global.premium = ['994408465157']
-global.number = '994408465157'
-global.botname = 'AryBotz-MD'
-global.packname = 'ByAry-MD'
-global.author = 'By Ary-Caa-!'
+global.owner = ['6281959293465', '6281273677810']
+global.premium = ['6281273677810']
+global.number = '62 81273677810'
+global.botname = 'PRATAMA-MD'
+global.packname = 'ByPRATAMA-MD'
+global.author = 'By M.A.F.PRATAMA-!'
 global.emailowner = 'arybotz791@gmail.com'
 global.websiteowner = 'https://github.com/aryjuanda'
 global.region = 'Indonesia'
@@ -19,7 +19,7 @@ global.simbol = "➭"
 global.rkyt = []
 
 // BIARIN:v
-global.creator = '© Created By AryBotz Official'
+global.creator = '© Created By PRATAMA Official'
 
 // MESSAGE
 global.mess = {
